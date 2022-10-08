@@ -5,7 +5,7 @@ Building a text editor that runs in the browser. The app will be a single-page a
 ![Screenshot 2022-10-08 132615](https://user-images.githubusercontent.com/105750913/194720118-4fd1e234-ef82-43a7-9ba8-d73a0e0b0454.jpg)
 
 # Deployed Link
-https://git.heroku.com/nameless-island-42145.git
+https://nameless-island-42145.herokuapp.com/
 
 # Contribution
 You can contribute here https://github.com/Jermaine1988/PWA
